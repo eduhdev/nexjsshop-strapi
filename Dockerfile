@@ -1,4 +1,4 @@
-FROM strapi/base:15
+FROM strapi/base:latest
 
 WORKDIR /opt/app
 
