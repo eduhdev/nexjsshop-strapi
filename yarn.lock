@@ -11459,7 +11459,7 @@ strapi-plugin-graphql@3.6.2:
     pluralize "^8.0.0"
     strapi-utils "3.6.2"
 
-strapi-plugin-sync-roles-permissions@^0.4.2:
+strapi-plugin-sync-roles-permissions@^0.4.3:
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/strapi-plugin-sync-roles-permissions/-/strapi-plugin-sync-roles-permissions-0.4.3.tgz#0f74378fdcc403e3e599cb61d1f6f3a1f8c3b5fd"
   integrity sha512-CYN8pc3g8d1wcUuUyvlMxOOws6tw5UgMkuxh987WjhOave2vdwyilscj0N+kBkDmCahup/urY2DU3VCTsVW9Ug==
