@@ -12,7 +12,7 @@
   "dependencies": {
     "jsdom": "^16.5.3",
     "knex": "0.95.6",
-    "pg": "^8.7.1",
+    "pg": "^8.8.0",
     "pg-connection-string": "^2.5.0",
     "slugify": "^1.5.3",
     "strapi": "^3.6.10",
